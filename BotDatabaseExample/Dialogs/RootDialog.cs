@@ -41,14 +41,29 @@ namespace BotDatabaseExample.Dialogs
                             select each).FirstOrDefault();
                         reply = $"{selectItem.Item} quantity is now {selectItem.Quantity}";
                         break;
+                    case "insert":
+                        var insertItem = new Table()
+                        {
+                            Item = "new item",
+                            Quantity = 10
+                        };
+                        db.Tables.Add(insertItem);
+                        db.SaveChanges();
+                        reply = $"{insertItem.Item} has been added the quantity is {insertItem.Quantity}";
+                        break;
+                    case "delete":
+                        var deleteItem = (from each in db.Tables
+                            where each.Id == 1
+                            select each).FirstOrDefault();
+                        db.Tables.Remove(deleteItem);
+                        db.SaveChanges();
+                        reply = $"{deleteItem.Item} has been deleted";
+                        break;
                     default:
-                        reply = "Please enter \"select\" or \"update\"";
+                        reply = "Please enter \"select\", \"update\", \"insert\", or \"delete\"";
                         break;
                 }
             }
-            // calculate something for us to return
-            int length = (activity.Text ?? string.Empty).Length;
-
             // return our reply to the user
             await context.PostAsync(reply);
 

@@ -1,0 +1,44 @@
+C:\source\BotDatabaseExample\BotDatabaseExample\obj\Debug\BotDatabaseExample.csprojResolveAssemblyReference.cache
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Bot Application.dll.config
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Bot Application.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Bot Application.pdb
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Autofac.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Chronic.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\EntityFramework.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\EntityFramework.SqlServer.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Bot.Builder.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Bot.Connector.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Rest.ClientRuntime.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Newtonsoft.Json.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.Net.Http.Formatting.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.Web.Http.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.Web.Http.WebHost.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Autofac.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\EntityFramework.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\EntityFramework.SqlServer.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Bot.Builder.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.Bot.Connector.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\Newtonsoft.Json.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.Net.Http.Formatting.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.Web.Http.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\System.Web.Http.WebHost.xml
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\obj\Debug\Bot Application.dll
+C:\source\BotDatabaseExample\BotDatabaseExample\obj\Debug\Bot Application.pdb
